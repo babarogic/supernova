@@ -1,0 +1,22 @@
+{
+  "name": "supernova",
+  "version": "1.0.0",
+  "description": "skola jezika",
+  "main": "script-core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@barba/core": "^2.9.7",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "devDependencies": {
+    "panini": "^1.6.3",
+    "swup": "^2.0.9"
+  }
+}
